@@ -10,7 +10,7 @@
  *
  * Created on 20 March 2018, 10:39 AM
  */
-
+#include <iostream>
 #include <cstdlib>
 
 using namespace std;
@@ -19,7 +19,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    cout << "Good day!!!";
     return 0;
 }
 
